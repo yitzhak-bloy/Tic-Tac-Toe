@@ -3,6 +3,14 @@ body {
     margin: 20px;
     background: rgb(255, 208, 208);
   }
+
+  h1 {
+    text-shadow: 2px 1px red;
+    letter-spacing: 1.5px;
+    font-size: 35px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+  }
   
   ol, ul {
     padding-left: 30px;
